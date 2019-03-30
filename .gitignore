@@ -1,0 +1,6 @@
+content.sublime-workspace
+.DS_Store
+/vendor/
+/bower_components/
+/node_modules/
+.idea

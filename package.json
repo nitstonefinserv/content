@@ -1,0 +1,24 @@
+{
+  "name": "reflexions-content",
+  "version": "1.1.0",
+  "description": "Reflexions CMS Toolkit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reflexions/content.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/reflexions/content",
+  "devDependencies": {},
+  "dependencies": {
+    "babel": "^6.5.2",
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-rm": "^1.0.0",
+    "laravel-elixir": "^5.0.0",
+    "laravel-elixir-vueify": "^1.0.2",
+    "vue": "^1.0.19",
+    "vue-html-loader": "^1.2.0",
+    "vue-strap": "^1.0.7"
+  }
+}
